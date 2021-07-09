@@ -1,0 +1,15 @@
+{
+	"name": "projet-ecommerce",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon ./index.ts"
+	},
+	"author": "BENLAGHA Mostapha el amine",
+	"license": "ISC",
+	"dependencies": {
+		"log-to-file": "^2.0.2"
+	},
+	"devDependencies": {},
+	"description": ""
+}
